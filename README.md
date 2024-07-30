@@ -1,0 +1,1 @@
+Criei um modelo de Clusterização para ajudar uma empresa de e-commerce a melhorar suas campanhas de marketing, através de uma melhor segmentação da sua base de clientes, direcionando melhor as promoções e ofertas aos clientes com base no comportamento de compras.
